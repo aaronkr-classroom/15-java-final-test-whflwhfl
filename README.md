@@ -6,6 +6,6 @@
 
 ![calculator](img/calculator.png)
 
-그 다음에 다음과 같은 며뉴바를 계산기 프로그램에 추가하시오.
+그 다음에 다음과 같은 메뉴바를 계산기 프로그램에 추가하시오.
 
 ![jmenubar](img/jmenubar.png)
